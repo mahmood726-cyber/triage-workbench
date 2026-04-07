@@ -37,5 +37,9 @@
       "role": "Boundary",
       "text": "The workbench improves prioritization, but it does not inspect folders, confirm git state, or guarantee that its rule-based labels are consistently correct."
     }
-  ]
+  ],
+  "author": "Mahmood Ahmad",
+  "affiliation": "Tahir Heart Institute",
+  "email": "mahmood.ahmad2@nhs.net",
+  "submitted": false
 }

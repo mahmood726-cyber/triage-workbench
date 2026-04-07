@@ -1,4 +1,6 @@
-M. Mahmood
+Mahmood Ahmad
+Tahir Heart Institute
+mahmood.ahmad2@nhs.net
 
 TriageWorkbench: Rule-Based Lifecycle Freezing for the Unresolved Portfolio Queue
 
