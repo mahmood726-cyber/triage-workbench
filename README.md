@@ -2,7 +2,7 @@
 
 # TriageWorkbench
 
-TriageWorkbench is a new standalone project built from the bundled `ResearchConstellation` snapshot.
+TriageWorkbench is a standalone project built from the bundled `ResearchConstellation` snapshot.
 
 ## Why this exists
 
@@ -25,13 +25,13 @@ TriageWorkbench addresses that directly by:
 
 ## Rebuild
 
-Run:
+Run from the repo root:
 
-`python C:\Users\user\TriageWorkbench\scripts\build_triage_workbench.py`
+`python scripts/build_triage_workbench.py`
 
 For a custom source file:
 
-`python C:\Users\user\TriageWorkbench\scripts\build_triage_workbench.py --source path\to\portfolio-data.json`
+`python scripts/build_triage_workbench.py --source path\to\portfolio-data.json`
 
 ## Method note
 
